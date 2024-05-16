@@ -5,7 +5,7 @@
 #### - 🌱 I’m currently learning statistics, probability theory, algorithms, databases, product analytics
 #### - 👯 I’m looking to collaborate on data analysis projects
 #### - 💬 Ask me about a problem in probability theory 
-#### - 📫 How to reach me: @AbleJunior
+#### - 📫 How to reach me: @ltov_i
 
 ## Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
